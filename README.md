@@ -2,7 +2,7 @@
 
 Here you will find the exercises for the Extemporary of Unit 2
 
-This is the following list includes everything for this repository
+This is the following list, which includes everything for this repository
 
 ## Practical C programming Exercises
 - Chapter 4
